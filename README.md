@@ -285,6 +285,5 @@ The analysis helps understand:
 
 This project is highly valuable for retail food businesses looking to make data-driven operational and sales decisions.
 
-# RASHI TAK
-
 ---
+# RASHI TAK
