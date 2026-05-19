@@ -1,17 +1,17 @@
 # McDonald's Sales & Order Pattern Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on performing an end-to-end data analytics workflow on a McDonald's food retail dataset using Excel, Power Query, Power Pivot, and Dashboarding techniques.  
 
 The dataset contains transactional order-level information and menu-level product details. The objective of this project is to analyze sales performance, customer ordering behavior, product trends, and revenue insights while building interactive dashboards for business decision-making. :contentReference[oaicite:0]{index=0}
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The project uses two tables:
 
-## 1️⃣ Order Details Table
+## Order Details Table
 This table contains transaction-level order information.
 
 ### Columns:
@@ -28,7 +28,7 @@ Each row represents a single product transaction/order placed by a customer.
 
 ---
 
-## 2️⃣ Menu Items Table
+## Menu Items Table
 This table contains product-level details.
 
 ### Columns:
@@ -45,11 +45,11 @@ This table acts as the master product table containing menu and pricing informat
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The project aims to answer important business questions such as:
 
-## 📈 Sales Analysis
+## Sales Analysis
 - Total Revenue Generated
 - Monthly Sales Trends
 - Revenue by Product Category
@@ -58,14 +58,14 @@ The project aims to answer important business questions such as:
 - Average Monthly Sales
 - Peak Revenue Periods
 
-## 🛒 Order Pattern Analysis
+## Order Pattern Analysis
 - Peak Order Timing
 - Peak Order Days
 - Customer Ordering Patterns
 - Average Orders per Customer
 - High Traffic Time Slots
 
-## 🍔 Product Performance Analysis
+## Product Performance Analysis
 - Best Performing Categories
 - Revenue Contribution by Category
 - Most Frequently Ordered Menu Items
@@ -73,7 +73,7 @@ The project aims to answer important business questions such as:
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 
 | Tool | Purpose |
 |------|----------|
@@ -86,9 +86,9 @@ The project aims to answer important business questions such as:
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
-## 1️⃣ Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 Initial understanding of:
 - Data structure
 - Missing values
@@ -99,7 +99,7 @@ Initial understanding of:
 
 ---
 
-## 2️⃣ Data Cleaning Using Power Query
+## Data Cleaning Using Power Query
 Performed:
 - Data type corrections
 - Date formatting
@@ -117,7 +117,7 @@ Performed:
 
 ---
 
-## 3️⃣ ETL Process
+## ETL Process
 
 ### Extract
 Imported both tables into Power Query.
@@ -135,7 +135,7 @@ Loaded cleaned tables into:
 
 ---
 
-# 🔗 Data Modeling
+# Data Modeling
 
 ### Relationship Created
 
@@ -153,26 +153,26 @@ Menu Items[Menu Item ID]
 
 ---
 
-# 📊 Key KPIs Created
+# Key KPIs Created
 
-## 💰 Revenue Metrics
+## Revenue Metrics
 - Total Revenue
 - Monthly Revenue
 - Revenue by Category
 - Average Revenue per Order
 
-## 📦 Sales Metrics
+## Sales Metrics
 - Total Orders
 - Total Items Sold
 - Average Orders per Day
 - Average Monthly Sales
 
-## 🍟 Product Metrics
+## Product Metrics
 - Most Sold Product
 - Least Sold Product
 - Best Revenue Generating Product
 
-## ⏰ Time Metrics
+## Time Metrics
 - Peak Sales Hour
 - Peak Sales Day
 - Weekend vs Weekday Orders
@@ -181,7 +181,7 @@ Menu Items[Menu Item ID]
 
 # 📑 Dashboard Pages
 
-## 1️⃣ Sales Analysis Dashboard
+## Sales Analysis Dashboard
 Contains:
 - Total Revenue KPI
 - Revenue Trend
@@ -192,7 +192,7 @@ Contains:
 
 ---
 
-## 2️⃣ Order Pattern Analysis Dashboard
+## Order Pattern Analysis Dashboard
 Contains:
 - Peak Order Timing
 - Order Heatmaps
@@ -202,7 +202,7 @@ Contains:
 
 ---
 
-# 🔍 Expected Insights
+# Expected Insights
 
 The dashboard can help identify:
 - Which products generate maximum revenue
@@ -213,7 +213,7 @@ The dashboard can help identify:
 
 ---
 
-# 💼 Business Value
+# Business Value
 
 This project helps business stakeholders:
 - Optimize staffing during peak hours
@@ -224,7 +224,7 @@ This project helps business stakeholders:
 
 ---
 
-# ⚠️ Limitations of Dataset
+# Limitations of Dataset
 
 The dataset has some limitations:
 
@@ -243,7 +243,7 @@ The dataset has some limitations:
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 ## Advanced Analytics
 - Forecast future sales using time-series analysis
@@ -268,7 +268,7 @@ would significantly improve analytical depth.
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 This project demonstrates a complete business intelligence workflow using Excel tools. By combining Power Query, Power Pivot, DAX, and dashboarding techniques, the project converts raw transactional data into actionable business insights.
 
@@ -279,3 +279,5 @@ The analysis helps understand:
 - Peak operational timings
 
 This project is highly valuable for retail food businesses looking to make data-driven operational and sales decisions.
+
+##RASHI TAK
