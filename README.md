@@ -179,7 +179,7 @@ Menu Items[Menu Item ID]
 
 ---
 
-# 📑 Dashboard Pages
+# Dashboard Pages
 
 ## Sales Analysis Dashboard
 Contains:
@@ -189,6 +189,9 @@ Contains:
 - Top Selling Products
 - Monthly Sales Chart
 - Category Performance
+ <img width="1290" height="609" alt="image" src="https://github.com/user-attachments/assets/6fd0a8d3-3cc5-412a-bf07-fc351a8b962f" />
+ 
+
 
 ---
 
@@ -199,6 +202,8 @@ Contains:
 - Orders by Hour
 - Orders by Day
 - Weekend vs Weekday Analysis
+  <img width="1286" height="644" alt="image" src="https://github.com/user-attachments/assets/8c5abe46-5b30-495a-aada-08c44e1bf518" />
+
 
 ---
 
@@ -280,4 +285,6 @@ The analysis helps understand:
 
 This project is highly valuable for retail food businesses looking to make data-driven operational and sales decisions.
 
-##RASHI TAK
+# RASHI TAK
+
+---
